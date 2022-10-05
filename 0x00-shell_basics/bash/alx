@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x+u alx
+chmod u+x alx
