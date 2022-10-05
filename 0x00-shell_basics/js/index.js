@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x+u index.js
+chmod u+x index.js

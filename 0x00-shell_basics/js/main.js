@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod x+u main.js
+chmod u+x main.js
