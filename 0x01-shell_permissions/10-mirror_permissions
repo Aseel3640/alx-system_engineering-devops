@@ -1,2 +1,2 @@
-VimCrypt~03!«z·Ÿ°–\”´(wÍ²asû|‹ìÍÕGİå¨ÒûÃªš™âà
-‰x3A¡-éÖJÑy~Ecø
+#!/bin/bash
+chmod -R -reference=olleh hello
