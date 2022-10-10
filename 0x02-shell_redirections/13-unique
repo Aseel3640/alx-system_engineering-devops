@@ -1,2 +1,2 @@
 #!/bin/bash 
-cat >list | uniq -u
+grep -o -E '\w+' temp | sort -u -f
