@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((($BREATH**2)*$BREATH))
+echo $(((b**2)*b))
