@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# displays the content of the current directory in a list format
+
+for a in *
+do
+	find "$a" | cut -d"-" -f2
+done
