@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 # displays PID avoiding ps use, also showing the name process
+#+ processes whose name contains the word "bash".
 
 pgrep -l bash
